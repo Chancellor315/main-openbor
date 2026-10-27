@@ -9,9 +9,17 @@
 #
 
 
+set Chancellor_Demo
+scene data/scenes/howto.txt
+file data/levels/new-stage-1.txt
+next
+scene data/scenes/ending.txt
 
-set	Grouping
+set Dbh_Course_Test
 
+scene data/scenes/howto.txt
+file    data/levels/new-stage-1.txt
+scene data/scenes/ending.txt
 file	data/levels/example1.txt
 next
 file	data/levels/holes.txt
